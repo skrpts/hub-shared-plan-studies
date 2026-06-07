@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "32162c8d-be87-4896-ab4a-229751f52c0a"
+id: "d5c391ad-4bda-44a8-beb1-db32939ad0e2"
 name: "plan-studies"
 display_name: "Plan Studies"
 description: "Core prompt for creating revision schedules"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
